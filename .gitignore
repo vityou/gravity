@@ -1,0 +1,6 @@
+/build/
+.idea
+/SFML/
+/stats.csv
+/.clangd/
+/.vscode/
